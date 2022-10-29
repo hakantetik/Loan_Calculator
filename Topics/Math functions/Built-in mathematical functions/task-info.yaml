@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ceil
+- text: sin
+- text: round
+- text: min
+- text: abs
+- text: max
+- text: floor
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6258#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Sun, 16 Oct 2022 16:35:11 UTC
+record: -1
+selected_options:
+- 2
+- 3
+- 5
+local_check: false
